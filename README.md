@@ -2,4 +2,4 @@
 <html>
 <body>
 
-<image src="hyundai.jpg" width="400" height=400" />
+<image src="hyundai.jpg" width="400" height="400" />
