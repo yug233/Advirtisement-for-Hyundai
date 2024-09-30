@@ -6,4 +6,4 @@
 
 
 <h3 align="center"> General Infromation about hyundai </h3>
-<p align="left"> Hyundai was founded by  South-korean enterpuneur Chung ju yung in 1967. He founded hyundai to fulfil the goals he had for South Korea.</p>
+<p align="left"> Hyundai, founded by  South-korean enterpuneur Chung ju yung in 1967, is a well recongnised automobile manufacturer. </p>
