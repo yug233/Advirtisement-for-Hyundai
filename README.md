@@ -10,5 +10,6 @@
 
 
 <h3 align="center">Who is Chung Ju Yung?</h3>
-<p align="left"> Chung Ju Yung</p>
-
+<p align="left"> Chung Ju Yung or Jung-Joo Yung(1915-2001)</p>
+<image src="chung ju yung.jpg" width="200" height="200"/> 
+<p align="center"> was a entrepuneur and founder of Hyunda </p>
