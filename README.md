@@ -22,4 +22,11 @@
   Life continued like this for 2 months until is he got caught by his father. He had to back to farming. Though his relatives were happy to have him back but Chung wasn't. However these two months had ignited his passion for construction and civil engineering. He also realised he would never beat poverty by working in the feilds.  </p>
 
 <h4 align="left"> Second attempt to escape poverty </h4>
-<p align="left"> He decided to go to Keijo(now Seoul). With the help of his two friends, he again left the city in April 1933 to go to Keijo.
+<p align="left"> He decided to go to Keijo(now Seoul). With the help of his two friends, he again left the city in April 1933 to go to Keijo. But the journey seemed to be destined to faiure since one of the boys werre caught by a sibling earlier one which meant he couldn't come. More misfortune came as a con man promised them jobs but ended up stilling their money. The journey came to an end when Chung's dad found the two staying at there grandparents house nearby.</p>
+
+<h4 align="left"> Third atttempt to escape poverty</h4>
+<p align="left"> He found himself working in the feilds again for another year. Once his duties were complete he decided it was time for another escape. He managed to get a 
+ 70 won train ticket to Keijo by selling his fathers cow. He enrolled himself to a local bookeeping school hoping to start his carreer as an accountant. Things went smoothly for two months untill his father found him and took him back home.
+
+ <h4 align="left"> Rice Merchant</h4>
+ 
