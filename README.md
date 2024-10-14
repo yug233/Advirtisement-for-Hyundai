@@ -28,5 +28,12 @@
 <p align="left"> He found himself working in the feilds again for another year. Once his duties were complete he decided it was time for another escape. He managed to get a 
  70 won train ticket to Keijo by selling his fathers cow. He enrolled himself to a local bookeeping school hoping to start his carreer as an accountant. Things went smoothly for two months untill his father found him and took him back home.
 
- <h4 align="left"> Rice Merchant</h4>
+ <h4 align="left"> Rice Merchant(Fourth escape attempt)</h4>
+ <p align="left"> In 1933 at the age of 18, he decided to decided escape from his village for the fourth time with the help of his friend who tried to escape a forced marriage. This time there was no one stopping them. Once Chung reached the capital he tried to find any job he could find. First he worked as laborer at Jinsen Harbour(now Incheon, currently in South Korea),  then a construction worker at Boseong Proffessional School and  as a handyman at a starch syrup company. </p>
+
+ <p align="left"> After working at the factory for nearly a year 
+
+ <img src="https://github.com/madelinekinnaird/Gerrymandr/blob/master/images/">
+
+ 
  
