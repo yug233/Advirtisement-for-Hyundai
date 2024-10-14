@@ -31,9 +31,14 @@
  <h4 align="left"> Rice Merchant(Fourth escape attempt)</h4>
  <p align="left"> In 1933 at the age of 18, he decided to decided escape from his village for the fourth time with the help of his friend who tried to escape a forced marriage. This time there was no one stopping them. Once Chung reached the capital he tried to find any job he could find. First he worked as laborer at Jinsen Harbour(now Incheon, currently in South Korea),  then a construction worker at Boseong Proffessional School and  as a handyman at a starch syrup company. </p>
 
- <p align="left"> After working at the factory for nearly a year 
+ <p align="left"> After working at the factory for nearly a year, he decided to be a delivery man for the Bokheung Rice Store. His new work offered him advancement and as he became better at it, he decided to be full time on it. He eventually won the praise of the stores core customeres which impressed the owner. After only being at the job for six months, the store owner allowed him to manage the store's accounting. Doing this helped him develop his buisness sense.</p>
 
- <img src="https://github.com/madelinekinnaird/Gerrymandr/blob/master/images/">
+ <p align="left"> One day the store owner became seriously ill and gave the store to Chung after the hard work he has put to the store. At 22, he became the store owner and renamed it to Kyungil Store Owner. The store went smoothly under his ownership- he grew the store and made good profits. But then in 1939, when Japan was in World war II it sercured rice supplies mostly to the millitary and country. This meant many rice stores closed including Chung's. But he wasn't done yet! </p>
+
+ 
+ 
+
+ 
 
  
  
