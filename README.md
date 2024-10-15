@@ -35,6 +35,10 @@
 
  <p align="left"> One day the store owner became seriously ill and gave the store to Chung after the hard work he has put to the store. At 22, he became the store owner and renamed it to Kyungil Store Owner. The store went smoothly under his ownership- he grew the store and made good profits. But then in 1939, when Japan was in World war II it sercured rice supplies mostly to the millitary and country. This meant many rice stores closed including Chung's. But he wasn't done yet! </p>
 
+ <h4 align="left"> A-do garage service</h4>
+ <p align="left"> Chung wanted to own a buissness were the Japanesse government couldn't control. Thinking of this, he soon decided to be in the car repair buisness. So in 1940, Chung took a 3000 won loan and opened "A-Do Garage". But unfortunatly the garage had burned down in ashes a few days after opening. He had to pay of his loan and tell the owneres of the cars to compinsate. However he didn't give in this difficult situation and took another loan of 3500 won and built an even better garage. Chung realised that the biggest problem was how long it took for the customers to get there cars back. So his main focus was on speed where his competoitors took 20 days for a certain repair but Chung's garage service took 5 days. The business had been so successful that up until 1943 the garage service had up to 80 employees, was able to pay of his loan, and settled his family in Keijo.
+
+Unfortunately tradegy stuck. The japaneese government decided to forcefully take owner ship of his garage and merge it to a steel plant nearby to make war related materials. This meant the Japaneese had taken his buisness for the second for war related reasons.
  
  
 
