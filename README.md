@@ -2,6 +2,7 @@
 <html>
 <body>
 
+<p align="center">
 <image src="hyundai.jpg" width="400" height="400" />
 
 
@@ -11,10 +12,10 @@
 
 <h3 align="center">Who is Chung Ju Yung?</h3>
 <p align="left"> Chung Ju Yung or Jung-Joo Yung was born in 1915 Tangchon, Empire of Japan(now Kangwon Province,North Kolerea). He was a entrepuneur and founder of Hyundai. He was the eldest of a poor Korean farmers. Chung had a hard life, his family sometimes couldn't afford to feed each other though they worked in the feilds for 17 hours a day. He sold wood in a nearby city to have enough income for the family but sometime that wouldn't be enough . But after all the struggles, he became the richest person in South Korea.  </p>
-<image src="chung ju yung.jpg" width="200" height="200"/> 
-<p align="left"> (picture of Chung Ju Yung) </p>
+<image src="chung ju yung.jpg" width="200" height="200"/>
+<p align="left"> (Chung Ju Yung)</p>
 
-<h3 align="center"> How a poor men build Hyundai.</h1>
+  <h3 align="center"> How a poor men build Hyundai.</h1>
 
 <h4 align="left"> First attempt to escape poverty:</h6>
 <p align="left"> One day he read in the newspaper. It said there was a big constructionin  a nearby city and it needsmore labourers. This motivated him to do something. In 1932, at the age of 16, he deicided to leave the city to go to the construction site. One night, Chung quietly left the city with his friend. He reachen Kowon after walking 160 kilometres and started working as a construction labourer. He worked so hard there but measly wages but he didn't care as he was able to earn independently for the first time in his life.
@@ -38,7 +39,7 @@
  <h4 align="left"> A-do garage service</h4>
  <p align="left"> Chung wanted to own a buissness were the Japanesse government couldn't control. Thinking of this, he soon decided to be in the car repair buisness. So in 1940, Chung took a 3000 won loan and opened "A-Do Garage". But unfortunatly the garage had burned down in ashes a few days after opening. He had to pay of his loan and tell the owneres of the cars to compinsate. However he didn't give in this difficult situation and took another loan of 3500 won and built an even better garage. Chung realised that the biggest problem was how long it took for the customers to get there cars back. So his main focus was on speed where his competoitors took 20 days for a certain repair but Chung's garage service took 5 days. The business had been so successful that up until 1943 the garage service had up to 80 employees, was able to pay of his loan, and settled his family in Keijo.
 
-Unfortunately tradegy stuck. The japaneese government decided to forcefully take owner ship of his garage and merge it to a steel plant nearby to make war related materials. This meant the Japaneese had taken his buisness for the second for war related reasons.
+Unfortunately tradegy stuck. The japaneese government decided to forcefully take owner ship of his garage and merge it to a steel plant nearby to make war related materials. This meant the Japaneese had taken his buisness for the second for war related reasons.</p>
  
  
 
