@@ -40,7 +40,9 @@
  <p align="left"> Chung wanted to own a buissness were the Japanesse government couldn't control. Thinking of this, he soon decided to be in the car repair buisness. So in 1940, Chung took a 3000 won loan and opened "A-Do Garage". But unfortunatly the garage had burned down in ashes a few days after opening. He had to pay of his loan and tell the owneres of the cars to compinsate. However he didn't give in this difficult situation and took another loan of 3500 won and built an even better garage. Chung realised that the biggest problem was how long it took for the customers to get there cars back. So his main focus was on speed where his competoitors took 20 days for a certain repair but Chung's garage service took 5 days. The business had been so successful that up until 1943 the garage service had up to 80 employees, was able to pay of his loan, and settled his family in Keijo.
 
 Unfortunately tradegy stuck. The japaneese government decided to forcefully take owner ship of his garage and merge it to a steel plant nearby to make war related materials. This meant the Japaneese had taken his buisness for the second for war related reasons.</p>
- 
+
+<h4 align="left"> Hyundai Auto Garage</h4> 
+<p align="left"> After World War 2 ended in 1945, Japan lost ownership of Korea hence Korea was divided into North and South Korea. The North side of Korea was influenced by Soviet Union(modern day Russia.) and the South Side influenced by America. So he moved back to Keijo and started another auto service but this time called "Hyundai Auto Service" which Hyundai meaning "mordern." And the business when successful.
  
 
  
