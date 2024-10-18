@@ -42,7 +42,7 @@
 Unfortunately tradegy stuck. The japaneese government decided to forcefully take owner ship of his garage and merge it to a steel plant nearby to make war related materials. This meant the Japaneese had taken his buisness for the second for war related reasons.</p>
 
 <h4 align="left"> Hyundai Auto Garage</h4> 
-<p align="left"> After World War 2 ended in 1945, Japan lost ownership of Korea hence Korea was divided into North and South Korea. The North side of Korea was influenced by Soviet Union(modern day Russia.) and the South Side influenced by America. So he moved back to Keijo and started another auto service but this time called "Hyundai Auto Service" which Hyundai meaning "mordern." And the business when successful.
+<p align="left"> After World War 2 ended in 1945, Japan lost ownership of Korea hence Korea was divided into North and South Korea. The North side of Korea was influenced by Soviet Union(modern day Russia.) and the South Side influenced by America. So he moved back to Keijo and started another auto service but this time called "Hyundai Auto Service" which Hyundai meaning "mordern." And the business went successful but that was when Chung had another buisness idea.
  
 
  
