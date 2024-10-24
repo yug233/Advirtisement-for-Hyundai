@@ -48,7 +48,7 @@ Unfortunately tradegy stuck. The japaneese government decided to forcefully take
 <p align="left"> Chung saw that America was constructing buildings for it's millitary forces. He saw a big opportunity in the contruction buisness. Though he didn't have experience in construction but he still had that passion he had for construction that he had when he was a laborer.
 So in 1947 he created the 'Hyundai Civil Works Company and officailly entered the construction buisness. Though he got small projects at first, he started to get big project by the 1950s. Everything thing went smoothly but then...
 
-<p align="left"> k
+<p align="left"> kd
 
  
  
