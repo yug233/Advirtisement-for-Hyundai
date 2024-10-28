@@ -36,10 +36,9 @@ Unfortunately tradegy stuck. The japaneese government decided to forcefully take
 <p align="left"> After World War 2 ended in 1945, Japan lost ownership of Korea hence Korea was divided into North and South Korea. The North side of Korea was influenced by Soviet Union(modern day Russia.) and the South Side influenced by America. So he moved back to Keijo and started another auto service but this time called "Hyundai Auto Service" which Hyundai meaning "mordern." And the business went successful but that was when Chung had another buisness idea.</p>
 
 <h4 align="left"> Hyundai Civil Works Company</h4>
-<p align="left"> Chung saw that America was constructing buildings for it's millitary forces. He saw a big opportunity in the contruction buisness. Though he didn't have experience in construction but he still had that passion he had for construction that he had when he was a laborer.
+<p align="left"> Chung saw that America was constructing buildings or it's millitary forces. He saw a big opportunity in the contruction buisness. Though he didn't have experience in construction but he still had that passion he had for construction that he had when he was a laborer.
 So in 1947 he created the 'Hyundai Civil Works Company and officailly entered the construction buisness. Though he got small projects at first, he started to get big project by the 1950s. Everything thing went smoothly but then...
 
-<p align="left"> kd
-
- 
+<p align="left"> In June 1950 the North Korean army was attacking South Korea. Their troops were getting close to Seoul  so he had fly to Busan for saftey. At that time, the American army was fighting along with the South Korean army. America needed tents,warehouses and army hq. This was was Chung realised America had no shrotage money but wanted it reliable the things to be made as soon as possible. He started with a small team and made the CAN DO! motto and if the price was right, he would do a any construction project.
+After that, he never failed to complete a project.
  
