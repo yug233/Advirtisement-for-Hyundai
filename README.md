@@ -1,15 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>  
 
 
 
-<h3 align="center">Who is Chung Ju Yung?</h3>
-<p align="left"> Chung Ju Yung or Jung-Joo Yung was born in 1915 Tangchon, Empire of Japan(now Kangwon Province,North Kolerea). He was a entrepuneur and founder of Hyundai. He was the eldest of a poor Korean farmers. Chung had a hard life, his family sometimes couldn't afford to feed each other though they worked in the feilds for 17 hours a day. He sold wood in a nearby city to have enough income for the family but sometime that wouldn't be enough . But after all the struggles, he became the richest person in South Korea.  </p>
-<image src="chung ju yung.jpg" width="200" height="200"/>
-<p align="left"> (Chung Ju Yung)</p>
 
-  <h3 align="center"> How a poor men build Hyundai.</h1>
+  <h1 align="center"> How a poor men build Hyundai.</h1>
 
 <h4 align="left"> First attempt to escape poverty:</h6>
-<p align="left"> One day he read in the newspaper. It said there was a big constructionin  a nearby city and it needsmore labourers. This motivated him to do something. In 1932, at the age of 16, he deicided to leave the city to go to the construction site. One night, Chung quietly left the city with his friend. He reachen Kowon after walking 160 kilometres and started working as a construction labourer. He worked so hard there but measly wages but he didn't care as he was able to earn independently for the first time in his life.
+<p align="left"> One day Chung read in the newspaper. It said there was a big constructionin  a nearby city and it needsmore labourers. This motivated him to do something. In 1932, at the age of 16, he deicided to leave the city to go to the construction site. One night, Chung quietly left the city with his friend. He reachen Kowon after walking 160 kilometres and started working as a construction labourer. He worked so hard there but measly wages but he didn't care as he was able to earn independently for the first time in his life.
   
   Life continued like this for 2 months until is he got caught by his father. He had to back to farming. Though his relatives were happy to have him back but Chung wasn't. However these two months had ignited his passion for construction and civil engineering. He also realised he would never beat poverty by working in the feilds.  </p>
 
