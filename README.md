@@ -43,5 +43,11 @@ So in 1947 he created the 'Hyundai Civil Works Company and officailly entered th
 <p align="left"> South Korea needed to build bridges, dams and roads and Chung's hyundai played a huge roll of making these stuff. He builded South Korea's largest dam, Soyang Dam and it's most important expressway Gyeongbu Expressway</p>
 
 <h4 align="left"> Making Cars</h4>
-Even though Chung became a really successful man South Korea he wasn't satisfied. He built thousands of kilometers of roads and it was time to make cars for run those roads, he thought. So in 1967 Chung established Hyundai Motor Company. In 1968 he had a deal with Ford were he would help assemble the Ford Cortina Cars. The deal ran smoothly for 2 years until conflict started developing between the two companies. Ford didn't want Hyundai to make it's own cars so that's why in 1973 Chung ended the deal.
- 
+Even though Chung became a really successful man South Korea he wasn't satisfied. He built thousands of kilometers of roads and it was time to make cars for run those roads, he thought. So in 1967 Chung established Hyundai Motor Company. In 1968 he had a deal with Ford were he would help assemble the Ford Cortina Cars. The deal ran smoothly for 2 years until conflict started developing between the two companies. Ford didn't want Hyundai to make it's own cars so that's why in 1973, Chung ended the deal.
+
+<h4 align="left"> THE RISE OF PONY</h4>
+After ending the contract with Ford, Chung tried to get deals with Volkswagen and GM(Genral Motors) for their manufacturing technology but they rejected it but in the end Mistubshi agreed a deal were Hyudnai was allowed to give it's car making technolgy. It was also allowed to make it's own cars. Then South Korea made and issue were automobile companies had to make cheap and reliable cars. The cars also had to have parts made in South Korea. This term was called 'THE CITZENS CAR'. So hyundai made it's first car called 'HYUDNAI PONY' in 1978. This was South Korea's first mass-produced car. This car was so succesful that Hyundai owned 60%
+of the car market of South Korea.
+
+<h4 align="left">DOWNFALL OF PONY</h4>
+Though Pony was successful in South Korea, it wasn't profitable because South Korea's car market was only 30 000 units which wasn't sufficient enough to make outstanding profits. When Pony entered the overseas market it was a complete failure. The paint would faint in the heat and there was mechanical issues. Hyundai was struggling for 7 years straight
